@@ -52,6 +52,5 @@ Usage of ./danglingcname:
 # Example
 ```
 go run main.go -usecrtsh -domain esriuk.com
-
 ```
 # DNS-DANGLING
